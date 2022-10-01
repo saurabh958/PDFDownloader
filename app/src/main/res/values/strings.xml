@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PDFDownloader</string>
+    <string name="url_hint">Enter URL for Downloading PDF</string>
+    <string name="download_pdf">Download PDF</string>
+    <string name="or">OR</string>
+    <string name="download_dummy_pdf">Download Dummy PDF</string>
+    <string name="pdf_downloader">PDF Downloader</string>
+    <string name="pdf_url">https://www.orimi.com/pdf-test.pdf</string>
+</resources>
